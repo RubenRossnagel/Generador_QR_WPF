@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXc1idMEbgHBNMig7Kig/wSoQ346AlQ+mJzZT/bKkEXrPfecdFTuFOdNRSZRRtxMoNOKIfW9MGNUQ/rfV5EjRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruben\\source\\repos\\Generador_QR_WPF\\Generador_QR_WPF\\Generador_QR_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
